@@ -1,4 +1,4 @@
-package com.oliveira.joblisting;
+package com.oliveira.joblisting.repository;
 
 
 import com.oliveira.joblisting.model.Post;
